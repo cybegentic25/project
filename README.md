@@ -2,5 +2,4 @@
    
    This project was created from local system .
 
-   createb by billionare pintu awase 
-   
+   createb by billionare pintu awase. 
